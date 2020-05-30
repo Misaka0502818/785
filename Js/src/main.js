@@ -14,7 +14,7 @@ class LINE extends Command {
         this.payload
     }
 
-    get myBot() {
+    get myBot(uef181ce3191bdf3fb26b7bc062dae745) {
         const bot = ['ua10c2ad470b4b6e972954e1140ad1891','u992a6e77041a772b8abd613ea64d4623','u1ec0c2a8e7c72d45237264d8816508e7','u4e2090b88ff63652744cbcd6d44a1522'];
         return bot; 
     }
